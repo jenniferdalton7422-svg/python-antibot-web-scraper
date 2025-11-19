@@ -1,0 +1,7 @@
+{
+ "DOWNLOAD_DELAY": 0,
+ "CONCURRENT_REQUESTS": 8,
+ "HEADER_FAKER": "HeaderFaker",
+ "SESSION_MANAGER": "SessionManager",
+ "RETRY_TIMES": 3
+}
